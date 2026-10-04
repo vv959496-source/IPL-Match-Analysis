@@ -1,12 +1,12 @@
-## IPL Match Analysis🏏
+## 🏏IPL Match Analysis:
 
-## Project Overview📌
+## 📌Project Overview:
 
 This project focuses on analyzing Indian Premier League (IPL) match data to identify patterns, trends, team performance, and match outcomes.
 
 The analysis uses Python and data analysis techniques to transform raw IPL data into meaningful insights through data cleaning, exploratory data analysis, and visualization.
 
-## Dataset📁
+## 📁Dataset:
 
 The dataset contains IPL match-related information such as:
 
@@ -32,7 +32,7 @@ The dataset contains IPL match-related information such as:
 
 The dataset was cleaned and prepared before performing the analysis.
 
-## Tools & Technologies🛠️
+## 🛠️Tools & Technologies:
 
 - Python
   
@@ -46,7 +46,7 @@ The dataset was cleaned and prepared before performing the analysis.
   
 - Jupyter Notebook
 
-## Data Cleaning🧹
+## 🧹Data Cleaning:
 
 The following data-preprocessing steps were performed:
 
@@ -64,7 +64,7 @@ The following data-preprocessing steps were performed:
   
 - Created required features for further analysis
 
-## Analysis📊
+## 📊Analysis:
 
 The project explores different aspects of IPL matches, including:
 
@@ -88,7 +88,7 @@ The project explores different aspects of IPL matches, including:
 
 The analysis was performed using Pandas and NumPy, while visualizations were created using Matplotlib and Seaborn.
 
-## Key Insights💡
+## 💡Key Insights:
 
 Some of the key insights identified from the analysis include:
 
@@ -108,7 +108,7 @@ Some of the key insights identified from the analysis include:
 
 «Note: The exact insights may vary depending on the IPL dataset and analysis performed in the project.»
 
-## Visualizations📈
+## 📈Visualizations:
 
 The project includes visualizations such as:
 
@@ -131,7 +131,7 @@ The project includes visualizations such as:
 These visualizations make it easier to understand patterns and trends within the IPL data.
 
 
-## Conclusion🎯
+## 🎯Conclusion:
 
 This project helped me strengthen my practical skills in Python, data cleaning, exploratory data analysis, and data visualization.
 
